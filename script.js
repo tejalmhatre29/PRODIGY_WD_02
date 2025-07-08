@@ -97,9 +97,3 @@ toggleButton.onclick=()=>{
     document.body.classList.toggle("light-mode");
 };
 
-
-/* 
-   24-june task1 done
-   29-june task3 done
-   07-june task4 done
-   13-june task5 done       */
